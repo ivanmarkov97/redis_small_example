@@ -1,5 +1,5 @@
 ## Redis small project
-<hr>
+
 Steps:
 
 - pip install -r requirements.txt
