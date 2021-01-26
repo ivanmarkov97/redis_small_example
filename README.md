@@ -7,7 +7,7 @@ Steps:
 
 ### Adding users to redis:
 
-Every user identified by login & password
+Every user identified by username & password
 - hset user:{username} password {password} // OK
 - hget user:{username} password // {password}
 - ttl user:{username} // -1
